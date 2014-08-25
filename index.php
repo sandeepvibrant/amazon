@@ -16,7 +16,7 @@
   <div id="main">
     <h1>You're ready to use Parse!</h1>
 
-    <p>Read the documentation and start building your JavaScript app:</p>
+    <?php echo'<p>Read the documentation and start building your JavaScript app:</p>'; ?>
 
     <ul>
       <li><a href="https://www.parse.com/docs/js_guide">Parse JavaScript Guide</a></li>
